@@ -1,3 +1,4 @@
+import sys
 url = sys.argv[1]
 import requests
 import json
